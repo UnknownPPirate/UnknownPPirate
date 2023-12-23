@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Java, Python**
 
-- 👨‍💻 All of my projects are available at [on github](on github)
+- 👨‍💻 All of my projects are available on github
 
-- 📝 I regularly write articles on [dev.to](dev.to)
+- 📝 I regularly write articles on dev.to
 
 - 💬 Ask me about **Python**
 
-- ⚡ Fun fact **he average age of a software engineer is 39 years. I am 22, long way to go.**
+- ⚡ Fun fact **The average age of a software engineer is 39 years. I am 22, long way to go.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
