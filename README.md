@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm UnknownPPirate</h1>
 <h3 align="center">A learning backend developer from Romania</h3>
 
-- 🌱 I’m currently learning **Java, Python**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available on github
 
