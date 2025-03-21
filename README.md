@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a blackjack game**
 
-- 🌱 I’m currently learning **Python, Django, FastAPI,Tornado**
+- 🌱 I’m currently learning **Python, CSS, JavaScript**
 
 - 📝 I regularly write articles on [https://dev.to/unknownppirate](https://dev.to/unknownppirate)
 
